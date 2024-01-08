@@ -1,0 +1,1 @@
+# Pharmaceutical-Image-Logo-Extraction
