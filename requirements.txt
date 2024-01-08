@@ -1,0 +1,9 @@
+torch		2.0.0
+torchvision	0.15.1
+numpy		1.21.5
+cython 		0.29.32
+detectron      	0.6
+fvcore 		0.1.6
+pycocotools	2.0.6
+matplotlib	3.5.2
+OpenCV		4.7.0
